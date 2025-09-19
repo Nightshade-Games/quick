@@ -1,5 +1,5 @@
-# <span style="color: #ff201e">Nightshade Games</span> An indie team creafting immersive worlds — one game at a time.
-#### The Quick theme magically transforms your `README.md` into a GitHub Pages site, applying clean and visually appealing styles.
+# <span style="color: #ff201e">Nightshade Games</span>
+####  An indie team creafting immersive worlds — one game at a time.
 
 ## Quick start
 
