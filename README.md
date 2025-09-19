@@ -1,13 +1,14 @@
 # <span style="color: #ff201e">Nightshade Games</span>
 ####  An indie team creafting immersive worlds — one game at a time.
 
+
 ## Our Game 
 
-Game title & short pitch (genre, vibe, main hook)
+Porject Cipher is a narrative-driven, action-packed first-person shooter immersive sim that blends retro spy-thriller aesthetics with deep gameplay choices and stealth mechanics. Set in an alternate Cold War timeline, players step into the shoes of Agent M, a resourceful and quick-witted espionage agent tasked with preventing the world from falling into the hands of a high-tech villainous organization.
 
 Concept art or early gameplay gif
 
-Feature list or “What to Expect”
+Drawing heavy inspiration from No One Lives Forever and Deus Ex, Project Cipher combines freedom of playstyle, strategic gadgetry, and dynamic narrative choices that provide players with multiple paths to complete each mission—whether through diplomacy, stealth, or full-on action. The game will also feature an original, adaptive soundtrack, further enhancing the immersive, retro atmosphere.
 
 CTA: Newsletter sign-up, Wishlist, or link to a devlog
 
@@ -16,9 +17,12 @@ CTA: Newsletter sign-up, Wishlist, or link to a devlog
 
 Your story: why you started, what inspires your work
 
-Short bios or description of the team
+Meet our team:
 
-Studio values or mission (e.g. "We believe in deep storytelling and beautiful 2D art.")
+T. - Founder/Tech Artist
+L. - Co-Founder/Sound Designer/Composer
+
+At Nightshade Games, we firmly believe in quality over quantity! 
 
 ## Devlog
 
