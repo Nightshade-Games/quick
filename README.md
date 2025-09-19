@@ -1,16 +1,7 @@
-# <span style="color: #ff201e">Nightshade Games</span> An indie team creafting immersive worlds&nbsp;create a&nbsp;GitHub Pages website for your project.
+# <span style="color: #ff201e">Nightshade Games</span> An indie team creafting immersive worlds&nbsp; a&nbsp;— one game at a time.
 #### The Quick theme magically transforms your `README.md` into a GitHub Pages site, applying clean and visually appealing styles.
 
 ## Quick start
-
-1. Make sure a `README.md` file exists in the root directory of your repo, and GitHub Pages is enabled in your repository settings.
-
-2. Create a file named `_config.yml` in the root directory of your repository. The file should contain the following content:
-```yaml
-remote_theme: devich/quick@0.0.1
-```
-
-3. That’s it! There is no step 3. You now have a GitHub Pages website that’s based on your `README.md` file. The changes will take effect some time after you commit and push your updates to the repository. Enjoy your new website!
 
 
 ## Our Game — Sneak Peek? 
