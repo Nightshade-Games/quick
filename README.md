@@ -20,7 +20,9 @@ Your story: why you started, what inspires your work
 Meet our team:
 
 T. - Founder/Tech Artist
+
 L. - Co-Founder/Sound Designer/Composer
+
 
 At Nightshade Games, we firmly believe in quality over quantity! 
 
