@@ -1,5 +1,5 @@
 # <span style="color: #ff201e">Nightshade Games</span>
-####  An indie team creafting immersive worlds — one game at a time.
+####  An indie team creating immersive worlds — one game at a time.
 
 
 ## Our Game 
