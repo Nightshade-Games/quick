@@ -2,9 +2,9 @@
 ####  An indie team creating immersive worlds — one game at a time.
 
 
-## Our Game 
+## Our Game [In Development]
 
-Porject Cipher is a narrative-driven, action-packed first-person shooter immersive sim that blends retro spy-thriller aesthetics with deep gameplay choices and stealth mechanics. Set in an alternate Cold War timeline, players step into the shoes of Agent M, a resourceful and quick-witted espionage agent tasked with preventing the world from falling into the hands of a high-tech villainous organization.
+Porject Cipher (Working Title) is a narrative-driven, action-packed first-person shooter immersive sim that blends retro spy-thriller aesthetics with deep gameplay choices and stealth mechanics. Set in an alternate Cold War timeline, players step into the shoes of Agent M, a resourceful and quick-witted espionage agent tasked with preventing the world from falling into the hands of a high-tech villainous organization.
 
 Concept art or early gameplay gif
 
