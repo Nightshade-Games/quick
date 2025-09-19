@@ -1,10 +1,7 @@
 # <span style="color: #ff201e">Nightshade Games</span>
 ####  An indie team creafting immersive worlds — one game at a time.
 
-## Quick start
-
-
-## Our Game — Sneak Peek? 
+## Our Game 
 
 Game title & short pitch (genre, vibe, main hook)
 
@@ -16,7 +13,6 @@ CTA: Newsletter sign-up, Wishlist, or link to a devlog
 
 
 ## About the Studio
-### Additional settings in _config.yml
 
 Your story: why you started, what inspires your work
 
@@ -24,7 +20,7 @@ Short bios or description of the team
 
 Studio values or mission (e.g. "We believe in deep storytelling and beautiful 2D art.")
 
-### Devlog
+## Devlog
 
 Behind-the-scenes posts, screenshots, or progress updates
 
@@ -32,7 +28,7 @@ Early concepts, challenges, or fun dev stories
 
 Even just a post every 1-2 months keeps things active
 
-### Stay Connected
+## Stay Connected
 
 Social media links (Twitter/X, Instagram, TikTok, YouTube, Discord, etc.)
 
