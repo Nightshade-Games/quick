@@ -15,7 +15,7 @@ CTA: Newsletter sign-up, Wishlist, or link to a devlog
 
 ## About the Studio
 
-Your story: why you started, what inspires your work
+Nightshade Games was founded in early 2025 by T. who always wanted to make games but life had other plans. T. started work on Project Cipher as a solo developer. After some months of working on the game.
 
 Meet our team:
 
@@ -36,10 +36,8 @@ Even just a post every 1-2 months keeps things active
 
 ## Stay Connected
 
-Social media links (Twitter/X, Instagram, TikTok, YouTube, Discord, etc.)
+[Socials]
 
-Email/newsletter signup
+[Contact Us]
 
-Optionally: a contact form for inquiries
-
-If you plan to talk to press later: placeholder for a press kit
+[Press Kit]
