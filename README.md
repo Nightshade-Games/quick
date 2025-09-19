@@ -15,7 +15,7 @@ CTA: Newsletter sign-up, Wishlist, or link to a devlog
 
 ## About the Studio
 
-Nightshade Games was founded in early 2025 by T. who always wanted to make games but life had other plans. T. started work on Project Cipher as a solo developer. After some months of working on the game.
+Nightshade Games was founded in early 2025 by T. a passionate gamer who always wanted to make games but life had other plans. T. started work on Project Cipher as a solo developer shortly after deciding to form the studio. After some time of working on the game alone, T. met L., a talented sound designer and composer. L. joined Nightshade Games as a co-founder of Nightshade Games.
 
 Meet our team:
 
